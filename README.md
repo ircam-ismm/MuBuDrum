@@ -16,3 +16,7 @@ press GO at (<span style="color:red;">4</span>).
 # Tutorial
 
 [![Video tutorial](https://img.youtube.com/vi/HOM8OtwCF-s/hqdefault.jpg)](https://www.youtube.com/embed/HOM8OtwCF-s)
+
+# License
+
+See file `LICENSE.txt`.
