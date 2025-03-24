@@ -5,6 +5,7 @@ MuBuDrum is a drum machine made by Lorenzo Bianchi Hoesch, designed with the MuB
 # Usage
 
 Open the main patch `###MUBUDRUM-0.1.maxpat` and follow the instructions.
+Click the `Help` button for parameter explanations.
 
 ## Quick Start
 The patch loads a default preset file and Max's demo sounds on startup.  To start playing, simply
