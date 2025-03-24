@@ -15,4 +15,4 @@ press GO at (<span style="color:red;">4</span>).
 
 # Tutorial
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HOM8OtwCF-s?si=fbVzK4ICtXpain4f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![Video tutorial](https://img.youtube.com/vi/HOM8OtwCF-s/hqdefault.jpg)](https://www.youtube.com/embed/HOM8OtwCF-s)
